@@ -1,0 +1,2023 @@
+[
+    {
+        "name": "Le'Veon Bell",
+        "position": "RB",
+        "team": "PIT",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 1,
+            "espn": 1,
+            "nfl": 1
+        },
+        "positionRanking": {
+            "fantasyPros": 1,
+            "espn": 1,
+            "nfl": 1
+        }
+    },
+    {
+        "name": "Todd Gurley",
+        "position": "RB",
+        "team": "LAR",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 2,
+            "espn": 2,
+            "nfl": 2
+        },
+        "positionRanking": {
+            "fantasyPros": 2,
+            "espn": 2,
+            "nfl": 2
+        }
+    },
+    {
+        "name": "David Johnson",
+        "position": "RB",
+        "team": "ARI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 3,
+            "espn": 3,
+            "nfl": 4
+        },
+        "positionRanking": {
+            "fantasyPros": 3,
+            "espn": 3,
+            "nfl": 4
+        }
+    },
+    {
+        "name": "Antonio Brown",
+        "position": "WR",
+        "team": "PIT",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 4,
+            "espn": 4,
+            "nfl": 5
+        },
+        "positionRanking": {
+            "fantasyPros": 1,
+            "espn": 1,
+            "nfl": 1
+        }
+    },
+    {
+        "name": "Ezekiel Elliott",
+        "position": "RB",
+        "team": "DAL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 5,
+            "espn": 5,
+            "nfl": 3
+        },
+        "positionRanking": {
+            "fantasyPros": 4,
+            "espn": 4,
+            "nfl": 3
+        }
+    },
+    {
+        "name": "Deandre Hopkins",
+        "position": "WR",
+        "team": "HOU",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 6,
+            "espn": 9,
+            "nfl": 8
+        },
+        "positionRanking": {
+            "fantasyPros": 2,
+            "espn": 3,
+            "nfl": 2
+        }
+    },
+    {
+        "name": "Alvin Kamara",
+        "position": "RB",
+        "team": "NO",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 7,
+            "espn": 7,
+            "nfl": 6
+        },
+        "positionRanking": {
+            "fantasyPros": 5,
+            "espn": 6,
+            "nfl": 5
+        }
+    },
+    {
+        "name": "Odell Beckham",
+        "position": "WR",
+        "team": "NYG",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 8,
+            "espn": 10,
+            "nfl": 11
+        },
+        "positionRanking": {
+            "fantasyPros": 3,
+            "espn": 4,
+            "nfl": 3
+        }
+    },
+    {
+        "name": "Julio Jones",
+        "position": "WR",
+        "team": "ATL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 9,
+            "espn": 8,
+            "nfl": 13
+        },
+        "positionRanking": {
+            "fantasyPros": 4,
+            "espn": 2,
+            "nfl": 4
+        }
+    },
+    {
+        "name": "Michael Thomas",
+        "position": "WR",
+        "team": "NO",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 10,
+            "espn": 16,
+            "nfl": 14
+        },
+        "positionRanking": {
+            "fantasyPros": 5,
+            "espn": 6,
+            "nfl": 5
+        }
+    },
+    {
+        "name": "Saquon Barkley",
+        "position": "RB",
+        "team": "NYG",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 11,
+            "espn": 6,
+            "nfl": 7
+        },
+        "positionRanking": {
+            "fantasyPros": 6,
+            "espn": 5,
+            "nfl": 6
+        }
+    },
+    {
+        "name": "Keenan Allen",
+        "position": "WR",
+        "team": "LAC",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 12,
+            "espn": 12,
+            "nfl": 16
+        },
+        "positionRanking": {
+            "fantasyPros": 6,
+            "espn": 5,
+            "nfl": 6
+        }
+    },
+    {
+        "name": "Kareem Hunt",
+        "position": "RB",
+        "team": "KC",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 13,
+            "espn": 11,
+            "nfl": 10
+        },
+        "positionRanking": {
+            "fantasyPros": 7,
+            "espn": 7,
+            "nfl": 8
+        }
+    },
+    {
+        "name": "Melvin Gordon",
+        "position": "RB",
+        "team": "LAC",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 14,
+            "espn": 15,
+            "nfl": 9
+        },
+        "positionRanking": {
+            "fantasyPros": 8,
+            "espn": 10,
+            "nfl": 7
+        }
+    },
+    {
+        "name": "A.J. Green",
+        "position": "WR",
+        "team": "CIN",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 15,
+            "espn": 17,
+            "nfl": 20
+        },
+        "positionRanking": {
+            "fantasyPros": 7,
+            "espn": 7,
+            "nfl": 7
+        }
+    },
+    {
+        "name": "Davante Adams",
+        "position": "WR",
+        "team": "GB",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 16,
+            "espn": 21,
+            "nfl": 21
+        },
+        "positionRanking": {
+            "fantasyPros": 8,
+            "espn": 8,
+            "nfl": 8
+        }
+    },
+    {
+        "name": "Dalvin Cook",
+        "position": "RB",
+        "team": "MIN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 17,
+            "espn": 13,
+            "nfl": 12
+        },
+        "positionRanking": {
+            "fantasyPros": 9,
+            "espn": 8,
+            "nfl": 9
+        }
+    },
+    {
+        "name": "Leonard Fournette",
+        "position": "RB",
+        "team": "JAC",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 18,
+            "espn": 14,
+            "nfl": 15
+        },
+        "positionRanking": {
+            "fantasyPros": 10,
+            "espn": 9,
+            "nfl": 10
+        }
+    },
+    {
+        "name": "Doug Baldwin",
+        "position": "WR",
+        "team": "SEA",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 19,
+            "espn": 27,
+            "nfl": 28
+        },
+        "positionRanking": {
+            "fantasyPros": 9,
+            "espn": 13,
+            "nfl": 12
+        }
+    },
+    {
+        "name": "Christian McCaffrey",
+        "position": "RB",
+        "team": "CAR",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 20,
+            "espn": 19,
+            "nfl": 18
+        },
+        "positionRanking": {
+            "fantasyPros": 11,
+            "espn": 12,
+            "nfl": 12
+        }
+    },
+    {
+        "name": "Jerick McKinnon",
+        "position": "RB",
+        "team": "SF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 21,
+            "espn": 36,
+            "nfl": 19
+        },
+        "positionRanking": {
+            "fantasyPros": 12,
+            "espn": 14,
+            "nfl": 13
+        }
+    },
+    {
+        "name": "Mike Evans",
+        "position": "WR",
+        "team": "TB",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 22,
+            "espn": 23,
+            "nfl": 25
+        },
+        "positionRanking": {
+            "fantasyPros": 10,
+            "espn": 9,
+            "nfl": 10
+        }
+    },
+    {
+        "name": "Rob Gronkowski",
+        "position": "TE",
+        "team": "NE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 23,
+            "espn": 22,
+            "nfl": 22
+        },
+        "positionRanking": {
+            "fantasyPros": 1,
+            "espn": 1,
+            "nfl": 1
+        }
+    },
+    {
+        "name": "Devonta Freeman",
+        "position": "RB",
+        "team": "WR",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 24,
+            "espn": 20,
+            "nfl": 17
+        },
+        "positionRanking": {
+            "fantasyPros": 13,
+            "espn": 13,
+            "nfl": 11
+        }
+    },
+    {
+        "name": "Adam Thielen",
+        "position": "WR",
+        "team": "MIN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 25,
+            "espn": 24,
+            "nfl": 24
+        },
+        "positionRanking": {
+            "fantasyPros": 11,
+            "espn": 10,
+            "nfl": 9
+        }
+    },
+    {
+        "name": "Travis Kelce",
+        "position": "TE",
+        "team": "KC",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 26,
+            "espn": 29,
+            "nfl": 23
+        },
+        "positionRanking": {
+            "fantasyPros": 2,
+            "espn": 2,
+            "nfl": 2
+        }
+    },
+    {
+        "name": "Larry Fitzgerald",
+        "position": "WR",
+        "team": "ARI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 27,
+            "espn": 25,
+            "nfl": 27
+        },
+        "positionRanking": {
+            "fantasyPros": 12,
+            "espn": 12,
+            "nfl": 11
+        }
+    },
+    {
+        "name": "T.Y Hilton",
+        "position": "WR",
+        "team": "IND",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 28,
+            "espn": 26,
+            "nfl": 30
+        },
+        "positionRanking": {
+            "fantasyPros": 13,
+            "espn": 12,
+            "nfl": 13
+        }
+    },
+    {
+        "name": "Stefon Diggs",
+        "position": "WR",
+        "team": "MIN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 29,
+            "espn": 28,
+            "nfl": 31
+        },
+        "positionRanking": {
+            "fantasyPros": 14,
+            "espn": 14,
+            "nfl": 14
+        }
+    },
+    {
+        "name": "Tyreek Hill",
+        "position": "WR",
+        "team": "KC",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 30,
+            "espn": 31,
+            "nfl": 34
+        },
+        "positionRanking": {
+            "fantasyPros": 15,
+            "espn": 15,
+            "nfl": 15
+        }
+    },
+    {
+        "name": "Demaryius Thomas",
+        "position": "WR",
+        "team": "DEN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 31,
+            "espn": 32,
+            "nfl": 40
+        },
+        "positionRanking": {
+            "fantasyPros": 16,
+            "espn": 16,
+            "nfl": 18
+        }
+    },
+    {
+        "name": "Golden Tate",
+        "position": "WR",
+        "team": "DET",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 32,
+            "espn": 34,
+            "nfl": 39
+        },
+        "positionRanking": {
+            "fantasyPros": 17,
+            "espn": 18,
+            "nfl": 17
+        }
+    },
+    {
+        "name": "Joe Mixon",
+        "position": "RB",
+        "team": "CIN",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 33,
+            "espn": 37,
+            "nfl": 32
+        },
+        "positionRanking": {
+            "fantasyPros": 14,
+            "espn": 15,
+            "nfl": 15
+        }
+    },
+    {
+        "name": "Zach Ertz",
+        "position": "TE",
+        "team": "PHI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 34,
+            "espn": 30,
+            "nfl": 29
+        },
+        "positionRanking": {
+            "fantasyPros": 3,
+            "espn": 3,
+            "nfl": 3
+        }
+    },
+    {
+        "name": "Amari Cooper",
+        "position": "WR",
+        "team": "OAK",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 35,
+            "espn": 40,
+            "nfl": 41
+        },
+        "positionRanking": {
+            "fantasyPros": 18,
+            "espn": 21,
+            "nfl": 19
+        }
+    },
+    {
+        "name": "Jordan Howard",
+        "position": "RB",
+        "team": "CHI",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 36,
+            "espn": 38,
+            "nfl": 33
+        },
+        "positionRanking": {
+            "fantasyPros": 16,
+            "espn": 16,
+            "nfl": 16
+        }
+    },
+    {
+        "name": "Aaron Rodgers",
+        "position": "QB",
+        "team": "GB",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 37,
+            "espn": 56,
+            "nfl": 52
+        },
+        "positionRanking": {
+            "fantasyPros": 1,
+            "espn": 1,
+            "nfl": 1
+        }
+    },
+    {
+        "name": "Allen Robinson",
+        "position": "WR",
+        "team": "CHI",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 38,
+            "espn": 33,
+            "nfl": 38
+        },
+        "positionRanking": {
+            "fantasyPros": 19,
+            "espn": 17,
+            "nfl": 16
+        }
+    },
+    {
+        "name": "Alshon Jeffrey",
+        "position": "WR",
+        "team": "PHI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 39,
+            "espn": 39,
+            "nfl": 43
+        },
+        "positionRanking": {
+            "fantasyPros": 20,
+            "espn": 20,
+            "nfl": 20
+        }
+    },
+    {
+        "name": "Kenyan Drake",
+        "position": "RB",
+        "team": "MIA",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 40,
+            "espn": 43,
+            "nfl": 36
+        },
+        "positionRanking": {
+            "fantasyPros": 16,
+            "espn": 17,
+            "nfl": 18
+        }
+    },
+    {
+        "name": "Jarvis Landry",
+        "position": "WR",
+        "team": "CLE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 41,
+            "espn": 42,
+            "nfl": 49
+        },
+        "positionRanking": {
+            "fantasyPros": 21,
+            "espn": 23,
+            "nfl": 23
+        }
+    },
+    {
+        "name": "LeSean McCoy",
+        "position": "RB",
+        "team": "BUF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 42,
+            "espn": 18,
+            "nfl": 26
+        },
+        "positionRanking": {
+            "fantasyPros": 17,
+            "espn": 11,
+            "nfl": 14
+        }
+    },
+    {
+        "name": "JuJu Smith-Schuster",
+        "position": "WR",
+        "team": "PIT",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 43,
+            "espn": 52,
+            "nfl": 47
+        },
+        "positionRanking": {
+            "fantasyPros": 22,
+            "espn": 25,
+            "nfl": 22
+        }
+    },
+    {
+        "name": "Alex Collins",
+        "position": "RB",
+        "team": "BAL",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 44,
+            "espn": 49,
+            "nfl": 35
+        },
+        "positionRanking": {
+            "fantasyPros": 18,
+            "espn": 23,
+            "nfl": 19
+        }
+    },
+    {
+        "name": "Russell Wilson",
+        "position": "QB",
+        "team": "SEA",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 45,
+            "espn": 68,
+            "nfl": 72
+        },
+        "positionRanking": {
+            "fantasyPros": 2,
+            "espn": 5,
+            "nfl": 3
+        }
+    },
+    {
+        "name": "Josh Gordon",
+        "position": "WR",
+        "team": "CLE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 46,
+            "espn": 35,
+            "nfl": 44
+        },
+        "positionRanking": {
+            "fantasyPros": 23,
+            "espn": 19,
+            "nfl": 21
+        }
+    },
+    {
+        "name": "Tom Brady",
+        "position": "QB",
+        "team": "NE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 47,
+            "espn": 57,
+            "nfl": 68
+        },
+        "positionRanking": {
+            "fantasyPros": 3,
+            "espn": 2,
+            "nfl": 2
+        }
+    },
+    {
+        "name": "Derrius Guice",
+        "position": "RB",
+        "team": "WAS",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 48,
+            "espn": 45,
+            "nfl": 46
+        },
+        "positionRanking": {
+            "fantasyPros": 19,
+            "espn": 19,
+            "nfl": 22
+        }
+    },
+    {
+        "name": "Marvin Jones",
+        "position": "WR",
+        "team": "DET",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 49,
+            "espn": 41,
+            "nfl": 55
+        },
+        "positionRanking": {
+            "fantasyPros": 24,
+            "espn": 22,
+            "nfl": 25
+        }
+    },
+    {
+        "name": "Brandin Cooks",
+        "position": "WR",
+        "team": "LAR",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 50,
+            "espn": 51,
+            "nfl": 56
+        },
+        "positionRanking": {
+            "fantasyPros": 25,
+            "espn": 24,
+            "nfl": 26
+        }
+    },
+
+
+    {
+        "name": "Dion Lewis",
+        "position": "RB",
+        "team": "TEN",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 51,
+            "espn": 59,
+            "nfl": 53
+        },
+        "positionRanking": {
+            "fantasyPros": 22,
+            "espn": 27,
+            "nfl": 26
+        }
+    },
+    {
+        "name": "Jay Ajayi",
+        "position": "RB",
+        "team": "PHI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 52,
+            "espn": 55,
+            "nfl": 37
+        },
+        "positionRanking": {
+            "fantasyPros": 21,
+            "espn": 25,
+            "nfl": 19
+        }
+    },
+    {
+        "name": "Greg Olsen",
+        "position": "TE",
+        "team": "CAR",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 53,
+            "espn": 77,
+            "nfl": 61
+        },
+        "positionRanking": {
+            "fantasyPros": 4,
+            "espn": 4,
+            "nfl": 4
+        }
+    },
+    {
+        "name": "Lamar Miller",
+        "position": "RB",
+        "team": "HOU",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 54,
+            "espn": 60,
+            "nfl": 48
+        },
+        "positionRanking": {
+            "fantasyPros": 20,
+            "espn": 28,
+            "nfl": 23
+        }
+    },
+
+    {
+        "name": "Corey Davis",
+        "position": "WR",
+        "team": "TEN",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 55,
+            "espn": 63,
+            "nfl": 67
+        },
+        "positionRanking": {
+            "fantasyPros": 27,
+            "espn": 29,
+            "nfl": 30
+        }
+    },
+    {
+        "name": "Deshaun Watson",
+        "position": "QB",
+        "team": "HOU",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 56,
+            "espn": 69,
+            "nfl": 73
+        },
+        "positionRanking": {
+            "fantasyPros": 4,
+            "espn": 6,
+            "nfl": 4
+        }
+    },
+    {
+        "name": "Michael Crabtree",
+        "position": "WR",
+        "team": "BAL",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 57,
+            "espn": 62,
+            "nfl": 54
+        },
+        "positionRanking": {
+            "fantasyPros": 25,
+            "espn": 28,
+            "nfl": 24
+        }
+    },
+    {
+        "name": "Cam Newton",
+        "position": "QB",
+        "team": "CAR",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 58,
+            "espn": 66,
+            "nfl": 75
+        },
+        "positionRanking": {
+            "fantasyPros": 5,
+            "espn": 3,
+            "nfl": 5
+        }
+    },
+    {
+        "name": "Rashaad Penny",
+        "position": "RB",
+        "team": "SEA",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 59,
+            "espn": 47,
+            "nfl": 42
+        },
+        "positionRanking": {
+            "fantasyPros": 23,
+            "espn": 21,
+            "nfl": 20
+        }
+    },
+    {
+        "name": "Mark Ingram",
+        "position": "RB",
+        "team": "NO",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 60,
+            "espn": 61,
+            "nfl": 45
+        },
+        "positionRanking": {
+            "fantasyPros": 24,
+            "espn": 29,
+            "nfl": 21
+        }
+    },
+    {
+        "name": "Evan Engram",
+        "position": "TE",
+        "team": "NYG",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 61,
+            "espn": 79,
+            "nfl": 66
+        },
+        "positionRanking": {
+            "fantasyPros": 5,
+            "espn": 6,
+            "nfl": 5
+        }
+    },
+    {
+        "name": "Derrick Henry",
+        "position": "RB",
+        "team": "TEN",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 62,
+            "espn": 50,
+            "nfl": 50
+        },
+        "positionRanking": {
+            "fantasyPros": 25,
+            "espn": 24,
+            "nfl": 24
+        }
+    },
+    {
+        "name": "Ronald Jones II",
+        "position": "RB",
+        "team": "TB",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 63,
+            "espn": 46,
+            "nfl": 59
+        },
+        "positionRanking": {
+            "fantasyPros": 28,
+            "espn": 20,
+            "nfl": 29
+        }
+    },
+    {
+        "name": "Sony Michel",
+        "position": "RB",
+        "team": "NE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 64,
+            "espn": 48,
+            "nfl": 58
+        },
+        "positionRanking": {
+            "fantasyPros": 26,
+            "espn": 22,
+            "nfl": 28
+        }
+    },
+    {
+        "name": "Sammy Watkins",
+        "position": "WR",
+        "team": "KC",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 65,
+            "espn": 70,
+            "nfl": 90
+        },
+        "positionRanking": {
+            "fantasyPros": 28,
+            "espn": 32,
+            "nfl": 39
+        }
+    },
+    {
+        "name": "Royce Freeman",
+        "position": "RB",
+        "team": "DEN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 66,
+            "espn": 44,
+            "nfl": 57
+        },
+        "positionRanking": {
+            "fantasyPros": 27,
+            "espn": 18,
+            "nfl": 27
+        }
+    },
+    {
+        "name": "Pierre Garcon",
+        "position": "WR",
+        "team": "SF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 67,
+            "espn": 64,
+            "nfl": 62
+        },
+        "positionRanking": {
+            "fantasyPros": 29,
+            "espn": 30,
+            "nfl": 27
+        }
+    },
+    {
+        "name": "Emmanuel Sanders",
+        "position": "65",
+        "team": "DEN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 68,
+            "espn": 54,
+            "nfl": 63
+        },
+        "positionRanking": {
+            "fantasyPros": 30,
+            "espn": 27,
+            "nfl": 28
+        }
+    },
+    {
+        "name": "Carson Wentz",
+        "position": "QB",
+        "team": "PHI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 69,
+            "espn": 67,
+            "nfl": 95
+        },
+        "positionRanking": {
+            "fantasyPros": 7,
+            "espn": 4,
+            "nfl": 6
+        }
+    },
+    {
+        "name": "Chris Hogan",
+        "position": "WR",
+        "team": "NE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 70,
+            "espn": 65,
+            "nfl": 71
+        },
+        "positionRanking": {
+            "fantasyPros": 31,
+            "espn": 31,
+            "nfl": 31
+        }
+    },
+    {
+        "name": "Drew Brees",
+        "position": "QB",
+        "team": "NO",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 71,
+            "espn": 128,
+            "nfl": 115
+        },
+        "positionRanking": {
+            "fantasyPros": 6,
+            "espn": 11,
+            "nfl": 9
+        }
+    },
+    {
+        "name": "Jimmy Graham",
+        "position": "TE",
+        "team": "GB",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 72,
+            "espn": 84,
+            "nfl": 84
+        },
+        "positionRanking": {
+            "fantasyPros": 7,
+            "espn": 7,
+            "nfl": 7
+        }
+    },
+    {
+        "name": "Delanie Walker",
+        "position": "TE",
+        "team": "TEN",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 73,
+            "espn": 78,
+            "nfl": 78
+        },
+        "positionRanking": {
+            "fantasyPros": 6,
+            "espn": 5,
+            "nfl": 6
+        }
+    },
+    {
+        "name": "Jamison Crowder",
+        "position": "WR",
+        "team": "WAS",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 74,
+            "espn": 88,
+            "nfl": 81
+        },
+        "positionRanking": {
+            "fantasyPros": 32,
+            "espn": 41,
+            "nfl": 35
+        }
+    },
+    {
+        "name": "Robert Woods",
+        "position": "WR",
+        "team": "LAR",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 75,
+            "espn": 53,
+            "nfl": 76
+        },
+        "positionRanking": {
+            "fantasyPros": 333,
+            "espn": 26,
+            "nfl": 32
+        }
+    },
+    {
+        "name": "Kirk Cousins",
+        "position": "QB",
+        "team": "MIN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 76,
+            "espn": 119,
+            "nfl":97
+        },
+        "positionRanking": {
+            "fantasyPros": 8,
+            "espn": 9,
+            "nfl": 7
+        }
+    },
+    {
+        "name": "Kyle Rudolph",
+        "position": "TE",
+        "team": "MIN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 77,
+            "espn": 99,
+            "nfl": 96
+        },
+        "positionRanking": {
+            "fantasyPros": 8,
+            "espn": 9,
+            "nfl": 9
+        }
+    },
+    {
+        "name": "Randall Cobb",
+        "position": "WR",
+        "team": "GB",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 78,
+            "espn": 71,
+            "nfl": 65
+        },
+        "positionRanking": {
+            "fantasyPros": 34,
+            "espn": 33,
+            "nfl": 29
+        }
+    },
+    {
+        "name": "Cooper Kupp",
+        "position": "WR",
+        "team": "LAR",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 79,
+            "espn": 89,
+            "nfl": 91
+        },
+        "positionRanking": {
+            "fantasyPros": 35,
+            "espn": 42,
+            "nfl": 40
+        }
+    },
+    {
+        "name": "Devin Funchess",
+        "position": "WR",
+        "team": "CAR",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 80,
+            "espn": 72,
+            "nfl": 83
+        },
+        "positionRanking": {
+            "fantasyPros": 36,
+            "espn": 34,
+            "nfl": 36
+        }
+    },
+    {
+        "name": "Tevin Coleman",
+        "position": "WR",
+        "team": "ATL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 81,
+            "espn": 85,
+            "nfl": 69
+        },
+        "positionRanking": {
+            "fantasyPros": 29,
+            "espn": 32,
+            "nfl": 32
+        }
+    },
+    {
+        "name": "Tarik Cohen",
+        "position": "RB",
+        "team": "CHI",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 82,
+            "espn": 86,
+            "nfl": 70
+        },
+        "positionRanking": {
+            "fantasyPros": 30,
+            "espn": 33,
+            "nfl": 33
+        }
+    },
+    {
+        "name": "Duke Johnson",
+        "position": "RB",
+        "team": "CLE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 83,
+            "espn": 80,
+            "nfl": 77
+        },
+        "positionRanking": {
+            "fantasyPros": 31,
+            "espn": 30,
+            "nfl": 35
+        }
+    },
+    {
+        "name": "Rex Burkhead",
+        "position": "RB",
+        "team": "NE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 84,
+            "espn": 95,
+            "nfl": 64
+        },
+        "positionRanking": {
+            "fantasyPros": 33,
+            "espn": 36,
+            "nfl": 31
+        }
+    },
+    {
+        "name": "Robby Anderson",
+        "position": "WR",
+        "team": "NYJ",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 85,
+            "espn": 75,
+            "nfl": 80
+        },
+        "positionRanking": {
+            "fantasyPros": 37,
+            "espn": 37,
+            "nfl": 34
+        }
+    },
+    {
+        "name": "Chris Thompson",
+        "position": "RB",
+        "team": "WAS",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 86,
+            "espn": 87,
+            "nfl": 51
+        },
+        "positionRanking": {
+            "fantasyPros": 32,
+            "espn": 34,
+            "nfl": 21
+        }
+    },
+    {
+        "name": "Devante Parker",
+        "position": "WR",
+        "team": "MIA",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 87,
+            "espn": 74,
+            "nfl": 79
+        },
+        "positionRanking": {
+            "fantasyPros": 38,
+            "espn": 36,
+            "nfl": 33
+        }
+    },
+    {
+        "name": "Matthew Stafford",
+        "position": "QB",
+        "team": "DET",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 88,
+            "espn": 127,
+            "nfl": 108
+        },
+        "positionRanking": {
+            "fantasyPros": 9,
+            "espn": 10,
+            "nfl": 8
+        }
+    },
+    {
+        "name": "Marshawn Lynch",
+        "position": "RB",
+        "team": "OAK",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 89,
+            "espn": 58,
+            "nfl": 74
+        },
+        "positionRanking": {
+            "fantasyPros": 34,
+            "espn": 26,
+            "nfl": 34
+        }
+    },
+    {
+        "name": "Marlon Mack",
+        "position": "RB",
+        "team": "IND",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 90,
+            "espn": 96,
+            "nfl": 60
+        },
+        "positionRanking": {
+            "fantasyPros": 35,
+            "espn": 37,
+            "nfl": 30
+        }
+    },
+    {
+        "name": "Julian Edelman",
+        "position": "WR",
+        "team": "NE",
+        "bye": 22,
+        "overallRanking": {
+            "fantasyPros": 91,
+            "espn": 82,
+            "nfl": 101
+        },
+        "positionRanking": {
+            "fantasyPros": 39,
+            "espn": 40,
+            "nfl": 45
+        }
+    },
+    {
+        "name": "Trey Burton",
+        "position": "TE",
+        "team": "CHI",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 92,
+            "espn": 111,
+            "nfl": 121
+        },
+        "positionRanking": {
+            "fantasyPros": 9,
+            "espn": 11,
+            "nfl": 11
+        }
+    },
+    {
+        "name": "Marquise Goodwin",
+        "position": "WR",
+        "team": "SF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 93,
+            "espn": 103,
+            "nfl": 98
+        },
+        "positionRanking": {
+            "fantasyPros": 40,
+            "espn": 48,
+            "nfl": 43
+        }
+    },
+    {
+        "name": "Jordan Reed",
+        "position": "TE",
+        "team": "WAS",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 94,
+            "espn": 90,
+            "nfl": 100
+        },
+        "positionRanking": {
+            "fantasyPros": 10,
+            "espn": 8,
+            "nfl": 10
+        }
+    },
+    {
+        "name": "Will Fuller",
+        "position": "WR",
+        "team": "HOU",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 95,
+            "espn": 73,
+            "nfl": 85
+        },
+        "positionRanking": {
+            "fantasyPros": 43,
+            "espn": 35,
+            "nfl": 37
+        }
+    },
+    {
+        "name": "Ben Roethlisberger",
+        "position": "QB",
+        "team": "PIT",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 96,
+            "espn": 118,
+            "nfl": 122
+        },
+        "positionRanking": {
+            "fantasyPros": 11,
+            "espn": 8,
+            "nfl": 12
+        }
+    },
+    {
+        "name": "Sterling Shepard",
+        "position": "WR",
+        "team": "NYG",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 97,
+            "espn": 81,
+            "nfl": 88
+        },
+        "positionRanking": {
+            "fantasyPros": 41,
+            "espn": 39,
+            "nfl": 38
+        }
+    },
+    {
+        "name": "Nelson Agholor",
+        "position": "WR",
+        "team": "PHI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 98,
+            "espn": 104,
+            "nfl": 104
+        },
+        "positionRanking": {
+            "fantasyPros": 42,
+            "espn": 49,
+            "nfl":  46
+        }
+    },
+    {
+        "name": "Kerryon Johnson",
+        "position": "RB",
+        "team": "DET",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 99,
+            "espn": 94,
+            "nfl": 87
+        },
+        "positionRanking": {
+            "fantasyPros": 36,
+            "espn": 35,
+            "nfl": 38
+        }
+    },
+    {
+        "name": "Andrew Luck",
+        "position": "QB",
+        "team": "IND",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 100,
+            "espn": 117,
+            "nfl": 119
+        },
+        "positionRanking": {
+            "fantasyPros": 10,
+            "espn": 7,
+            "nfl": 10
+        }
+    },
+    {
+        "name": "Jordy Nelson",
+        "position": "WR",
+        "team": "OAK",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 101,
+            "espn": 102,
+            "nfl": 105
+        },
+        "positionRanking": {
+            "fantasyPros": 44,
+            "espn": 47,
+            "nfl": 47
+        }
+    },
+    {
+        "name": "Jimmy Garoppolo",
+        "position": "QB",
+        "team": "SF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 102,
+            "espn": 137,
+            "nfl": 120
+        },
+        "positionRanking": {
+            "fantasyPros": 13,
+            "espn": 14,
+            "nfl": 11
+        }
+    },
+    {
+        "name": "Jack Doyle",
+        "position": "TE",
+        "team": "IND",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 103,
+            "espn": 110,
+            "nfl": 89
+        },
+        "positionRanking": {
+            "fantasyPros": 11,
+            "espn": 10,
+            "nfl": 8
+        }
+    },
+    {
+        "name": "Isiah Crowell",
+        "position": "RB",
+        "team": "NYJ",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 104,
+            "espn": 83,
+            "nfl": 82
+        },
+        "positionRanking": {
+            "fantasyPros": 37,
+            "espn": 31,
+            "nfl": 36
+        }
+    },
+    {
+        "name": "Philip Rivers",
+        "position": "QB",
+        "team": "LAC",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 105,
+            "espn": 135,
+            "nfl": 130
+        },
+        "positionRanking": {
+            "fantasyPros": 12,
+            "espn": 13,
+            "nfl": 13
+        }
+    },
+    {
+        "name": "Kenny Stills",
+        "position": "WR",
+        "team": "MIA",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 106,
+            "espn": 91,
+            "nfl": 99
+        },
+        "positionRanking": {
+            "fantasyPros": 45,
+            "espn": 43,
+            "nfl": 44
+        }
+    },
+    {
+        "name": "Kelvin Benjamin",
+        "position": "WR",
+        "team": "BUF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 107,
+            "espn": 76,
+            "nfl": 107
+        },
+        "positionRanking": {
+            "fantasyPros": 46,
+            "espn": 38,
+            "nfl":49
+        }
+    },
+    {
+        "name": "George Kittle",
+        "position": "TE",
+        "team": "SF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 108,
+            "espn": 157,
+            "nfl": 132
+        },
+        "positionRanking": {
+            "fantasyPros": 12,
+            "espn": 15,
+            "nfl": 12
+        }
+    },
+    {
+        "name": "Jamaal Williams",
+        "position": "RB",
+        "team": "GB",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 109,
+            "espn": 97,
+            "nfl": 86
+        },
+        "positionRanking": {
+            "fantasyPros": 38,
+            "espn": 38,
+            "nfl": 37
+        }
+    },
+    {
+        "name": "Rishard Matthews",
+        "position": "WR",
+        "team": "TEN",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 110,
+            "espn": 105,
+            "nfl": 111
+        },
+        "positionRanking": {
+            "fantasyPros": 47,
+            "espn": 50,
+            "nfl": 51
+        }
+    },
+    {
+        "name": "Carlos Hyde",
+        "position": "RB",
+        "team": "CLE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 111,
+            "espn": 100,
+            "nfl": 128
+        },
+        "positionRanking": {
+            "fantasyPros": 39,
+            "espn": 40,
+            "nfl": 47
+        }
+    },
+    {
+        "name": "Marqise Lee",
+        "position": "WR",
+        "team": "JAC",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 112,
+            "espn": 101,
+            "nfl": 93
+        },
+        "positionRanking": {
+            "fantasyPros": 48,
+            "espn": 46,
+            "nfl": 42
+        }
+    },
+    {
+        "name": "Jared Goff",
+        "position": "QB",
+        "team": "LAR",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 113,
+            "espn": 163,
+            "nfl": 137
+        },
+        "positionRanking": {
+            "fantasyPros": 15,
+            "espn": 19,
+            "nfl": 14
+        }
+    },
+    {
+        "name": "Patrick Mahomes",
+        "position": "QB",
+        "team": "KC",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 114,
+            "espn": 134,
+            "nfl": 151
+        },
+        "positionRanking": {
+            "fantasyPros": 16,
+            "espn": 12,
+            "nfl": 15
+        }
+    },
+    {
+        "name": "C.J. Anderson",
+        "position": "RB",
+        "team": "CAR",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 115,
+            "espn": 147,
+            "nfl": 109
+        },
+        "positionRanking": {
+            "fantasyPros": 40,
+            "espn": 47,
+            "nfl": 42
+        }
+    },
+    {
+        "name": "Matt Ryan",
+        "position": "QB",
+        "team": "ATL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 116,
+            "espn": 138,
+            "nfl": 160
+        },
+        "positionRanking": {
+            "fantasyPros": 14,
+            "espn": 15,
+            "nfl": 19
+        }
+    },
+    {
+        "name": "Allen Hurns",
+        "position": "WR",
+        "team": "DAL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 117,
+            "espn": 106,
+            "nfl": 92
+        },
+        "positionRanking": {
+            "fantasyPros": 49,
+            "espn": 51,
+            "nfl": 41
+        }
+    },
+    {
+        "name": "Marcus Mariota",
+        "position": "QB",
+        "team": "TEN",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 118,
+            "espn": 140,
+            "nfl": 159
+        },
+        "positionRanking": {
+            "fantasyPros": 17,
+            "espn": 17,
+            "nfl": 18
+        }
+    },
+    {
+        "name": "Theo Riddick",
+        "position": "RB",
+        "team": "DET",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 120,
+            "espn": 108,
+            "nfl": 102
+        },
+        "positionRanking": {
+            "fantasyPros": 44,
+            "espn": 42,
+            "nfl": 40
+        }
+    },
+    {
+        "name": "Giovani Bernard",
+        "position": "RB",
+        "team": "CIN",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 121,
+            "espn": 107,
+            "nfl": 114
+        },
+        "positionRanking": {
+            "fantasyPros": 42,
+            "espn": 41,
+            "nfl": 44
+        }
+    },
+    {
+        "name": "David Njoku",
+        "position": "TE",
+        "team": "CLE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 122,
+            "espn": 120,
+            "nfl": 181
+        },
+        "positionRanking": {
+            "fantasyPros": 13,
+            "espn": 12,
+            "nfl": 19
+        }
+    },
+    {
+        "name": "James White",
+        "position": "RB",
+        "team": "NE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 124,
+            "espn": 109,
+            "nfl": 94
+        },
+        "positionRanking": {
+            "fantasyPros": 43,
+            "espn": 43,
+            "nfl": 39
+        }
+    },
+    {
+        "name": "Kenny Golladay",
+        "position": "WR",
+        "team": "DET",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 125,
+            "espn": 116,
+            "nfl": 125
+        },
+        "positionRanking": {
+            "fantasyPros": 50,
+            "espn": 53,
+            "nfl": 55
+        }
+    },
+    {
+        "name": "Josh Doctson",
+        "position": "WR",
+        "team": "WAS",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 123,
+            "espn": 92,
+            "nfl": 124
+        },
+        "positionRanking": {
+            "fantasyPros": 52,
+            "espn": 44,
+            "nfl": 54
+        }
+    },
+
+    {
+        "name": "DeSean Jackson",
+        "position": "WR",
+        "team": "TB",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 135,
+            "espn": 93,
+            "nfl": 112
+        },
+        "positionRanking": {
+            "fantasyPros": 55,
+            "espn": 45,
+            "nfl": 52
+        }
+    },
+
+    {
+        "name": "Ty Montgomery",
+        "position": "RB",
+        "team": "GB",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 119,
+            "espn": 98,
+            "nfl": 145
+        },
+        "positionRanking": {
+            "fantasyPros": 39,
+            "espn": 41,
+            "nfl": 53
+        }
+    }
+]
