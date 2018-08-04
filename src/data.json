@@ -1986,7 +1986,6 @@
             "nfl": 54
         }
     },
-
     {
         "name": "DeSean Jackson",
         "position": "WR",
@@ -2003,7 +2002,6 @@
             "nfl": 52
         }
     },
-
     {
         "name": "Ty Montgomery",
         "position": "RB",
@@ -2018,6 +2016,632 @@
             "fantasyPros": 39,
             "espn": 41,
             "nfl": 53
+        }
+    },
+    {
+        "name": "Alex Smith",
+        "position": "QB",
+        "team": "WAS",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 126,
+            "espn": 139,
+            "nfl": 157
+        },
+        "positionRanking": {
+            "fantasyPros": 18,
+            "espn": 16,
+            "nfl": 16
+        }
+    },
+    {
+        "name": "Dak Prescott",
+        "position": "QB",
+        "team": "DAL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 127,
+            "espn": 162,
+            "nfl": 158
+        },
+        "positionRanking": {
+            "fantasyPros": 19,
+            "espn": 18,
+            "nfl": 17
+        }
+    },
+    {
+        "name": "Mitch Trubisky",
+        "position": "QB",
+        "team": "CHI",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 151,
+            "espn": 168,
+            "nfl": 165
+        },
+        "positionRanking": {
+            "fantasyPros": 20,
+            "espn": 20,
+            "nfl": 20
+        }
+    },
+    {
+        "name": "Blake Bortles",
+        "position": "QB",
+        "team": "JAC",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 154,
+            "espn": 267,
+            "nfl": 185
+        },
+        "positionRanking": {
+            "fantasyPros": 21,
+            "espn": 28,
+            "nfl": 23
+        }
+    },
+    {
+        "name": "Derek Carr",
+        "position": "QB",
+        "team": "OAK",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 148,
+            "espn": 245,
+            "nfl": 168
+        },
+        "positionRanking": {
+            "fantasyPros": 22,
+            "espn": 26,
+            "nfl": 21
+        }
+    },
+    {
+        "name": "Eli Manning",
+        "position": "QB",
+        "team": "NYG",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 160,
+            "espn": 243,
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 23,
+            "espn": 24,
+            "nfl": "NR"
+        }
+    },
+    {
+        "name": "Case Keenum",
+        "position": "QB",
+        "team": "DEN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 171,
+            "espn": 266,
+            "nfl": 182
+        },
+        "positionRanking": {
+            "fantasyPros": 25,
+            "espn": 27,
+            "nfl": 22
+        }
+    },
+    {
+        "name": "Jacksonville Jaguars",
+        "position": "DEF",
+        "team": "JAC",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 140,
+            "espn": 156,
+            "nfl": 117
+        },
+        "positionRanking": {
+            "fantasyPros": 1,
+            "espn": 1,
+            "nfl": 1
+        }
+    },
+    {
+        "name": "Minnesota Vikings",
+        "position": "DEF",
+        "team": "MIN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 147,
+            "espn": 172,
+            "nfl": 147
+        },
+        "positionRanking": {
+            "fantasyPros": 2,
+            "espn": 4,
+            "nfl": 4
+        }
+    },
+    {
+        "name": "Philadelphia Eagles",
+        "position": "DEF",
+        "team": "PHI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 3,
+            "espn": 170,
+            "nfl": 140
+        },
+        "positionRanking": {
+            "fantasyPros": 153,
+            "espn": 2,
+            "nfl": 3
+        }
+    },
+    {
+        "name": "Los Angeles Rams",
+        "position": "DEF",
+        "team": "LAR",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 157,
+            "espn": 171,
+            "nfl": 131
+        },
+        "positionRanking": {
+            "fantasyPros": 4,
+            "espn": 3,
+            "nfl": 2
+        }
+    },
+    {
+        "name": "Los Angeles Chargers",
+        "position": "DEF",
+        "team": "LAR",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 161,
+            "espn": 179,
+            "nfl": 155
+        },
+        "positionRanking": {
+            "fantasyPros": 5,
+            "espn": 8,
+            "nfl": 6
+        }
+    },
+    {
+        "name": "Houston Texans",
+        "position": "DEF",
+        "team": "HOU",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 168,
+            "espn": 173,
+            "nfl": 152
+        },
+        "positionRanking": {
+            "fantasyPros": 6,
+            "espn": 5,
+            "nfl": 5
+        }
+    },
+    {
+        "name": "Denver Broncos",
+        "position": "DEF",
+        "team": "DEN",
+        "bye": 10,
+        "overallRanking": {
+            "fantasyPros": 7,
+            "espn": 180,
+            "nfl": 189
+        },
+        "positionRanking": {
+            "fantasyPros": 169,
+            "espn": 9,
+            "nfl": 10
+        }
+    },
+    {
+        "name": "Baltimore Ravens",
+        "position": "DEF",
+        "team": "BAL",
+        "bye": 20,
+        "overallRanking": {
+            "fantasyPros": 182,
+            "espn": 174,
+            "nfl": 170
+        },
+        "positionRanking": {
+            "fantasyPros": 8,
+            "espn": 6,
+            "nfl": 7
+        }
+    },
+    {
+        "name": "New Orleans Saints",
+        "position": "DEF",
+        "team": "NO",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": 9,
+            "espn": 181,
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 204,
+            "espn": 10,
+            "nfl": 13
+        }
+    },
+    {
+        "name": "New England Patriots",
+        "position": "DEF",
+        "team": "NE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": 207,
+            "espn": 178,
+            "nfl": 175
+        },
+        "positionRanking": {
+            "fantasyPros": 10,
+            "espn": 7,
+            "nfl": 8
+        }
+    },
+    {
+        "name": "Pittsburgh Seelers",
+        "position": "DEF",
+        "team": "PIT",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 215,
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 11,
+            "espn": "NR",
+            "nfl": 12
+        }
+    },
+    {
+        "name": "Carolina Panthers",
+        "position": "DEF",
+        "team": "CAR",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": 213,
+            "espn": 183,
+            "nfl": 176
+        },
+        "positionRanking": {
+            "fantasyPros": 12,
+            "espn": 12,
+            "nfl": 9
+        }
+    },
+    {
+        "name": "Seattle Seahawks",
+        "position": "DEF",
+        "team": "SEA",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 202,
+            "espn": 300,
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 13,
+            "espn": 22,
+            "nfl": 11
+        }
+    },
+    {
+        "name": "Chicago Bears",
+        "position": "DEF",
+        "team": "CHI",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": 14,
+            "espn": 286,
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 225,
+            "espn": 18,
+            "nfl": 18
+        }
+    },
+    {
+        "name": "Atlanta Falcons",
+        "position": "DEF",
+        "team": "ATL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": 237,
+            "espn": 253,
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 15,
+            "espn": 15,
+            "nfl": 21
+        }
+    },
+    {
+        "name": "Kansas City Chiefs",
+        "position": "DEF",
+        "team": "KC",
+        "bye": 12,
+        "overallRanking": {
+            "fantasyPros": 222,
+            "espn": 299,
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 16,
+            "espn": 21,
+            "nfl": 15
+        }
+    },
+    {
+        "name": "Arizona Cardinals",
+        "position": "DEF",
+        "team": "ARI",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": 234,
+            "espn": 222,
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 17,
+            "espn": 14,
+            "nfl": 9
+        }
+    },
+    {
+        "name": "Green Bay Packers",
+        "position": "DEF",
+        "team": "GB",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": 297,
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 18,
+            "espn": 23,
+            "nfl": 25
+        }
+    },
+    {
+        "name": "Tennesse Titans",
+        "position": "DEF",
+        "team": "TEN",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 19,
+            "espn": 17,
+            "nfl": 19
+        }
+    },
+    {
+        "name": "Cincinnati Bengals",
+        "position": "DEF",
+        "team": "CIN",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 20,
+            "espn": 23,
+            "nfl": 22
+        }
+    },
+    {
+        "name": "New York Giants",
+        "position": "DEF",
+        "team": "NYG",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 21,
+            "espn": 26,
+            "nfl": 27
+        }
+    },
+    {
+        "name": "Detroit Lions",
+        "position": "DEF",
+        "team": "DET",
+        "bye": 6,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 22,
+            "espn": 19,
+            "nfl": 17
+        }
+    },
+    {
+        "name": "Buffalo Biils",
+        "position": "DEF",
+        "team": "BUF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 23,
+            "espn": 22,
+            "nfl": 16
+        }
+    },
+    {
+        "name": "Dallas Cowboys",
+        "position": "DEF",
+        "team": "DAL",
+        "bye": 8,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 24,
+            "espn": 21,
+            "nfl": 25
+        }
+    },
+    {
+        "name": "Washington Redksins",
+        "position": "DEF",
+        "team": "WAS",
+        "bye": 4,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 25,
+            "espn": 20,
+            "nfl": 24
+        }
+    },
+    {
+        "name": "Tampa Bay Bucaneers",
+        "position": "DEF",
+        "team": "TB",
+        "bye": 5,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 26,
+            "espn": 27,
+            "nfl": 20
+        }
+    },
+    {
+        "name": "Cleveland Browns",
+        "position": "DEF",
+        "team": "CLE",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 27,
+            "espn": 25,
+            "nfl": 32
+        }
+    },
+
+    {
+        "name": "San Francisco 49ers",
+        "position": "DEF",
+        "team": "SF",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 28,
+            "espn": 28,
+            "nfl": 29
+        }
+    },
+    {
+        "name": "New York Jets",
+        "position": "DEF",
+        "team": "NYJ",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 29,
+            "espn": 31,
+            "nfl": 28
+        }
+    },
+
+    {
+        "name": "Miami Dolphins",
+        "position": "DEF",
+        "team": "MIA",
+        "bye": 11,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 30,
+            "espn": 29,
+            "nfl": 23
+        }
+    },
+    {
+        "name": "Oakland Raiders",
+        "position": "DEF",
+        "team": "OAK",
+        "bye": 7,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 31,
+            "espn": 30,
+            "nfl": 30
+        }
+    },
+    {
+        "name": "Indianapolis Colts",
+        "position": "DEF",
+        "team": "IND",
+        "bye": 9,
+        "overallRanking": {
+            "fantasyPros": "NR",
+            "espn": "NR",
+            "nfl": "NR"
+        },
+        "positionRanking": {
+            "fantasyPros": 32,
+            "espn": 32,
+            "nfl": 32
         }
     }
 ]
