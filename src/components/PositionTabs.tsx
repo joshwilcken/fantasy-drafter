@@ -13,10 +13,18 @@ interface IPositionTabsProps {
     flex: any;
 }
 
-export class PositionTabs extends Component<IPositionTabsProps> {
+interface IPositionTabsState {
+    sortBy: string;
+}
+
+export class PositionTabs extends Component<IPositionTabsProps, IPositionTabsState> {
 
     constructor(props: any) {
         super(props);
+
+        this.state = {
+            sortBy: "fantasyPros"
+        }
     }
 
     public render() {
@@ -27,41 +35,39 @@ export class PositionTabs extends Component<IPositionTabsProps> {
                     <Tab.Pane attached={false}>
                         <PositionView
                             playerList={this.props.qb}
-                            sorter="QB" />
+                            sorter={this.state.sortBy} />
                     </Tab.Pane>
             },
             {
                 menuItem: 'RB', render: () => <Tab.Pane attached={false}>
                     <PositionView
                         playerList={this.props.rb}
-                        sorter="RB" />></Tab.Pane>
+                        sorter={this.state.sortBy} />></Tab.Pane>
             },
             {
                 menuItem: 'WR', render: () => <Tab.Pane attached={false}>
                     <PositionView
                         playerList={this.props.wr}
-                        sorter="WR" /></Tab.Pane>
+                        sorter={this.state.sortBy} /></Tab.Pane>
             },
             {
                 menuItem: 'TE', render: () => <Tab.Pane attached={false}>
                     <PositionView
                         playerList={this.props.te}
-                        sorter="TE" /></Tab.Pane>
+                        sorter={this.state.sortBy} /></Tab.Pane>
             },
             {
                 menuItem: 'D/ST', render: () => <Tab.Pane attached={false}>
                     <PositionView
                         playerList={this.props.def}
-                        sorter="D/ST" /></Tab.Pane>
+                        sorter={this.state.sortBy} /></Tab.Pane>
             },
             {
                 menuItem: 'Flex', render: () => <Tab.Pane attached={false}>
                     <PositionView
-                        playerList={this.props.def}
-                        sorter="Flex" /></Tab.Pane>
+                        playerList={this.props.flex}
+                        sorter={this.state.sortBy} /></Tab.Pane>
             },
-
-
         ]
 
         return (

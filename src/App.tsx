@@ -10,6 +10,7 @@ import { Component, Fragment } from "react";
 const data = require("./data.json")
 import './App.css';
 
+import { AddTeamsModal } from "./components/AddTeamsModal";
 import { PositionTabs } from "./components/PositionTabs";
 import { TabsView } from "./components/TabsView";
 
@@ -23,7 +24,14 @@ interface IAppState {
   te: any;
   flex: any;
   rankingsOverall: any;
+  fantasyTeams: any[]
+}
 
+interface InewTeam {
+  fantasyTeam: {
+    personName: string;
+    teamName: string;
+  }
 }
 
 export class App extends Component<{}, IAppState> {
@@ -45,8 +53,8 @@ export class App extends Component<{}, IAppState> {
         nfl: null,
         // tslint:disable-next-line:object-literal-sort-keys
         espn: null
-      }
-
+      },
+      fantasyTeams: []
     }
   }
 
@@ -59,37 +67,47 @@ export class App extends Component<{}, IAppState> {
     return (
       <Fragment>
         <div className="App">
+
+          <AddTeamsModal
+            addFantasyTeam={this.addFantasyTeam} />
           <TabsView
             fantasyPros={this.state.rankingsOverall.fantasyPros}
             espn={this.state.rankingsOverall.espn}
-            nfl={this.state.rankingsOverall.nfl}/>
+            nfl={this.state.rankingsOverall.nfl} />
           <PositionTabs
             qb={this.state.qb}
             rb={this.state.rb}
             wr={this.state.wr}
             te={this.state.te}
             def={this.state.def}
-            flex={this.state.flex}/>
+            flex={this.state.flex} />
         </div>
 
       </Fragment>
     );
   }
 
+  public addFantasyTeam = (newTeam: InewTeam): void => {
+    this.setState((prevState) => {
+      return {
+        fantasyTeams: [...prevState.fantasyTeams, newTeam]
+      }
+    })
+  }
+
   private init() {
     this.setState({
       data
-    }, () => {
-      this.filterQB();
-      this.filterRB();
-      this.filterWR();
-      this.filterTE();
-      this.filterDEF();
-      this.filterFlex();
-      this.sortOverallRankings("nfl");
-      this.sortOverallRankings("espn");
-      this.sortOverallRankings("fantasyPros")
     })
+    this.filterQB();
+    this.filterRB();
+    this.filterWR();
+    this.filterTE();
+    this.filterDEF();
+    this.filterFlex();
+    this.sortOverallRankings("nfl");
+    this.sortOverallRankings("espn");
+    this.sortOverallRankings("fantasyPros")
   }
 
   private sortOverallRankings(site: string): void {
@@ -105,8 +123,8 @@ export class App extends Component<{}, IAppState> {
   }
 
   private filterQB() {
-    const filteredByPosition: any = _filter(this.state.data, (players) => {
-      return players.position.qb
+    const filteredByPosition: any = _filter(data, (players) => {
+      return players.position === "QB"
     })
     this.setState({
       qb: filteredByPosition
@@ -114,8 +132,8 @@ export class App extends Component<{}, IAppState> {
   }
 
   private filterRB() {
-    const filteredByPosition: any = _filter(this.state.data, (players) => {
-      return players.position.rb
+    const filteredByPosition: any = _filter(data, (players) => {
+      return players.position === "RB"
     })
     this.setState({
       rb: filteredByPosition
@@ -123,8 +141,8 @@ export class App extends Component<{}, IAppState> {
   }
 
   private filterWR() {
-    const filteredByPosition: any = _filter(this.state.data, (players) => {
-      return players.position.WR
+    const filteredByPosition: any = _filter(data, (players) => {
+      return players.position === "WR"
     })
     this.setState({
       wr: filteredByPosition
@@ -132,8 +150,8 @@ export class App extends Component<{}, IAppState> {
   }
 
   private filterTE() {
-    const filteredByPosition: any = _filter(this.state.data, (players) => {
-      return players.position.TE
+    const filteredByPosition: any = _filter(data, (players) => {
+      return players.position === "TE"
     })
     this.setState({
       te: filteredByPosition
@@ -141,8 +159,8 @@ export class App extends Component<{}, IAppState> {
   }
 
   private filterDEF() {
-    const filteredByPosition: any = _filter(this.state.data, (players) => {
-      return players.position.DEF
+    const filteredByPosition: any = _filter(data, (players) => {
+      return players.position === "DEF"
     })
     this.setState({
       def: filteredByPosition
@@ -150,15 +168,16 @@ export class App extends Component<{}, IAppState> {
   }
 
   private filterFlex() {
-    const filteredByRB: any = _filter(this.state.data, (players) => {
-      return players.position.RB
+    const filteredByRB: any = _filter(data, (players) => {
+      return players.position === "RB"
     })
-    const filteredByWR: any = _filter(this.state.data, (players) => {
-      return players.position.WR
+    const filteredByWR: any = _filter(data, (players) => {
+      return players.position === "WR"
     })
     this.setState({
-      flex: {...filteredByRB, ...filteredByWR}
+      flex: [...filteredByRB, ...filteredByWR]
     })
   }
+
 
 }
